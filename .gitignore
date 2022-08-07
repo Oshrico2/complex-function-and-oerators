@@ -1,0 +1,13 @@
+main.dSYM/Contents/Resources/DWARF/main
+main.dSYM/Contents/Info.plist
+Complex.dSYM/Contents/Info.plist
+.vscode/tasks.json
+.vscode/settings.json
+main
+main.cpp
+.idea/.gitignore
+.idea/classwork6.iml
+.idea/modules.xml
+.vscode/c_cpp_properties.json
+.vscode/launch.json
+Complex.dSYM/Contents/Resources/DWARF/Complex
